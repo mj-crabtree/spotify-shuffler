@@ -21,7 +21,6 @@ def handle_output(tracklist):
         else:
             output += track + "\n"
             count += 1
-
     print(f"successfully shuffled {count} tracks!")
     pc.copy(output)
 
