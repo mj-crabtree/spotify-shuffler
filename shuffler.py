@@ -1,20 +1,20 @@
- #! /usr/bin/python3e
+ #! /bin/python3
 # shuffler.py
 """feed this script a text file with spotify tracks and it'll spit out a randomised tracklist"""
 
 # import sys
 import random
-import pyperclip as pc
+# import pyperclip as pc
 
 output = ""
-tracklist = pc.paste()
+# tracklist = pc.paste()
 urls = tracklist.split("\n")
 random.shuffle(urls)
 
 for url in urls:
     output += url + "\n"
 
-pc.copy(output)
+# pc.copy(output)
 
 
 # def file_check(file_path):
