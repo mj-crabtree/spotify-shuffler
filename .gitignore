@@ -1,4 +1,5 @@
 secrets.py
+*.txt
 spotify/
 __pycache__/
 .idea/
