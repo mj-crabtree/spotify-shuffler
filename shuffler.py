@@ -1,4 +1,4 @@
-# !python3
+#!/bin/python3
 # shuffler.py
 """feed this script a text file with spotify tracks and it'll spit out a randomised tracklist"""
 
