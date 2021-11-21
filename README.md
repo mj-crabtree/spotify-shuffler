@@ -3,7 +3,7 @@
 ## Why
 I have _zero_ data to back up this claim but I'm pretty much convinced that Spotify's shuffle feature is a bit rubbish, playing tracks it knows you'll like to hear over tracks you actually _want_ to hear (i.e. new shit) so that you keep listening for longer.
 
-There also exists no means by which you can automatically shuffle a playlist's content in any of Spotify's apps, so I made this script.
+There also exists no means by which you can automatically shuffle a playlist's content in any of Spotify's apps, so I made this teeny tiny little script.
 
 ## How
 - Copy the content of a playlist to the clipboard
