@@ -1,4 +1,4 @@
-# Spotify Playlist Shuffler
+# Spotify Playlist Shuffle Guy
 
 ## Why
 I have _zero_ data to back up this claim but I'm pretty much convinced that Spotify's shuffle feature is a bit rubbish, playing tracks it knows you'll like to hear over tracks you actually _want_ to hear (i.e. new shit) so that you keep listening for longer.
